@@ -3,6 +3,7 @@ import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/nusafood.png";
 import projImg2 from "../assets/img/danson.png";
 import projImg3 from "../assets/img/cookit.png";
+import projImg4 from "../assets/img/todolist.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -19,7 +20,7 @@ export const Projects = () => {
       imgUrl: projImg1,
     },
     {
-      linkweb: "#",
+      linkweb: "https://www.figma.com/file/vQc0R7HY9B3CNTWXGykFFF?node-id=0:1&locale=en&type=design",
       title: "Dansons",
       description: "UI/UX Design for dance learning app",
       imgUrl: projImg2,
@@ -29,6 +30,12 @@ export const Projects = () => {
       title: "CookIT",
       description: "Android App for cooking recipes",
       imgUrl: projImg3,
+    },
+    {
+      linkweb: "https://github.com/MarpisGG/todolist",
+      title: "To Do List App",
+      description: "A simple to do list app",
+      imgUrl: projImg4,
     },
   ];
 
