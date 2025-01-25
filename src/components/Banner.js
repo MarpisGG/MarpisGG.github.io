@@ -65,9 +65,9 @@ export const Banner = () => {
                 <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Cyber Security", "UI/UX Designer","Mobile Application Developer" ]'><span className="wrap">{text}</span></span>
                   </h1>
                   <p>I am an Informatics student at Universitas Multimedia Nusantara. Interested in website development, mobile app development, UI/UX design, and cybersecurity, I’ve gained valuable hands-on skills both in and outside the classroom. My involvement in various organizations has taught me the importance of teamwork and collaboration, while my academic journey has helped me embrace new ideas and innovation. I am eager to apply my knowledge in real-world projects, contribute to a team, and continue enhance my skills.</p>
-              <a href={process.env.PUBLIC_URL + "/assets/cv/Marvell Christofer-CV.pdf"} download="Marvell Christofer-CV.pdf">
-                <button>Download My CV<ArrowRightCircle size={25} /></button>
-              </a>
+                <a href={process.env.PUBLIC_URL + "/assets/cv/Marvell Christofer-CV.pdf"} download="Marvell Christofer-CV.pdf">
+                  <button>Download My CV<ArrowRightCircle size={25} /></button>
+                </a>
               </div>}
             </TrackVisibility>
           </Col>
