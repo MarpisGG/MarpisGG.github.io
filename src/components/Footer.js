@@ -20,7 +20,6 @@ export const Footer = () => {
                 <a href="https://www.instagram.com/marvell_christo"><img src={navIcon3} alt="" /></a>
                 <a href="https://www.github.com/marpisGG"><img src={navIcon4} alt="" /></a>
             </div>
-            <p>Copyright 2022. All Rights Reserved</p>
           </Col>
         </Row>
       </Container>
