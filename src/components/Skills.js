@@ -17,6 +17,8 @@ import javascript from "../assets/img/js.svg";
 import java from "../assets/img/java.svg";
 import figma from "../assets/img/figma.svg";
 import kotlin from "../assets/img/kotlin.svg"
+import react from "../assets/img/react.svg";
+
 
 
 export const Skills = () => {
@@ -64,6 +66,10 @@ export const Skills = () => {
                             <div className="item">
                                 <img src={python} alt="Image" />
                                 <h5>Python</h5>
+                            </div>
+                            <div className="item">
+                                <img src={react} alt="Image" />
+                                <h5>ReactJS</h5>
                             </div>
                             <div className="item">
                                 <img src={c} alt="Image" />
