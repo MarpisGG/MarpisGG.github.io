@@ -99,6 +99,10 @@ export const Skills = () => {
                                 <img src={figma} alt="Image" />
                                 <h5>Figma</h5>
                             </div>
+                            <div className="item">
+                                <img src={react} alt="Image" />
+                                <h5>React - Native</h5>
+                            </div>
                         </Carousel>
                     </div>
                 </div>
