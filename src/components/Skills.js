@@ -64,12 +64,20 @@ export const Skills = () => {
                                 <h5>JavaScript</h5>
                             </div>
                             <div className="item">
+                                <img src={react} alt="Image" />
+                                <h5>ReactJS</h5>
+                            </div>
+                            <div className="item">
                                 <img src={python} alt="Image" />
                                 <h5>Python</h5>
                             </div>
                             <div className="item">
-                                <img src={react} alt="Image" />
-                                <h5>ReactJS</h5>
+                                <img src={php} alt="Image" />
+                                <h5>PHP</h5>
+                            </div>
+                            <div className="item">
+                                <img src={laravel} alt="Image" />
+                                <h5>Laravel</h5>
                             </div>
                             <div className="item">
                                 <img src={c} alt="Image" />
@@ -86,14 +94,6 @@ export const Skills = () => {
                             <div className="item">
                                 <img src={kotlin} alt="Image" />
                                 <h5>Kotlin</h5>
-                            </div>
-                            <div className="item">
-                                <img src={php} alt="Image" />
-                                <h5>PHP</h5>
-                            </div>
-                            <div className="item">
-                                <img src={laravel} alt="Image" />
-                                <h5>Laravel</h5>
                             </div>
                             <div className="item">
                                 <img src={figma} alt="Image" />
