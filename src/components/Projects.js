@@ -26,7 +26,7 @@ export const Projects = () => {
       imgUrl: projImg2,
     },
     {
-      linkweb: "#",
+      linkweb: "https://github.com/MarpisGG/Kelompok4_CookIT",
       title: "CookIT",
       description: "Android App for cooking recipes",
       imgUrl: projImg3,
